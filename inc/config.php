@@ -2,3 +2,4 @@
 $server = "";
 $user = "";
 $password = "";
+$security = true;
